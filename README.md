@@ -35,7 +35,7 @@ You can access your avatar detail and spec by http://yoursitename.xyz/<your_avat
 
 For any need of software additions, plugins and improvements please write to <a href="mailto:info@numode.eu">info@numode.eu</a>  
 
-To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox.io/l/dona1</a> and filling the form.  
+To help please donate by clicking <a href="https://numd.eu/l/dona1">https://numd.eu/l/dona1</a> and filling the form.  
 
 ### Screenshots:
 
@@ -45,4 +45,4 @@ To help please donate by clicking <a href="https://gaox.io/l/dona1">https://gaox
 
 ![Sfatto in action #3](/Public/static/res/screenshot3.png)<br>
 
-Feedback: <a href="mailto:code@gaox.io" style="color:#e6d236;">code@gaox.io</a>
+Feedback: <a href="mailto:code@numd.eu" style="color:#e6d236;">code@numd.eu</a>
